@@ -11,3 +11,7 @@ git remote add origin https://github.com/hkruger/<repo_name>
     It's a bit confusing, but by convention we refer to the remote repository as 'origin' and the initial local repository as 'master'. When you're ready to push your commits to the remote repository (origin), you'll need to use the 'push' command:
 
 git push origin master
+
+
+
+gg
