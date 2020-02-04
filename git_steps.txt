@@ -1,0 +1,11 @@
+git add .
+
+git status
+
+git commit -m "some message goes here"
+
+git remote add origin git@github.com:hkruger/<repo_name>
+
+    It's a bit confusing, but by convention we refer to the remote repository as 'origin' and the initial local repository as 'master'. When you're ready to push your commits to the remote repository (origin), you'll need to use the 'push' command:
+
+git push origin master
